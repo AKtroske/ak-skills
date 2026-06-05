@@ -9,11 +9,9 @@ This repository is a Claude Code **marketplace** containing one plugin,
 ## Install
 
 ```
-/plugin marketplace add akahitroske/ak-skills
+/plugin marketplace add AKtroske/ak-skills
 /plugin install ak-skills@ak-skills
 ```
-
-(Replace `akahitroske/ak-skills` with the actual GitHub `owner/repo` once pushed.)
 
 ## What's inside
 
