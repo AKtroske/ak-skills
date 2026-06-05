@@ -1,0 +1,21 @@
+{
+  "name": "ak-skills",
+  "owner": {
+    "name": "Akahi Troske"
+  },
+  "metadata": {
+    "description": "Akahi Troske's personal Claude Code skills (and agents).",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ak-skills",
+      "description": "Personal Claude Code skills and agents. Ships mental-model: interactive teach-then-quiz code understanding using Leitner spaced repetition.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Akahi Troske"
+      },
+      "source": "./ak-skills"
+    }
+  ]
+}
